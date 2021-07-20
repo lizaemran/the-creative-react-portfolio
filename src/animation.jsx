@@ -56,7 +56,7 @@ export const lineAnim = {
     show: {
         width: '100%',
         tansition: {
-            duration: 1
+            duration: 1.5
         },
 
     }
